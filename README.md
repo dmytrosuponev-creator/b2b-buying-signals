@@ -5,27 +5,27 @@ companies, no contact data.
 
 Live report with charts: **[https://vendo-ai.com/b2b-buying-signals-report/](https://vendo-ai.com/b2b-buying-signals-report/)**
 
-## Latest window: October 23, 2026 to November 18, 2026
+## Latest window: October 27, 2026 to November 22, 2026
 
 | Signal type | Signals | Decision-makers |
 |---|---:|---:|
-| Hiring | 22,326 | 6,456 |
-| Funding and company news | 16,775 | 2,712 |
-| Local business | 16,592 | 24,801 |
-| Leadership changes | 5,923 | 4,140 |
-| Tech and product intent | 4,665 | 450 |
-| Social and LinkedIn intent | 2,584 | 674 |
-| **All types** | **68,865** | **39,233** |
+| Hiring | 23,668 | 6,846 |
+| Funding and company news | 16,789 | 2,459 |
+| Local business | 15,687 | 24,001 |
+| Leadership changes | 6,560 | 4,790 |
+| Tech and product intent | 5,302 | 468 |
+| Social and LinkedIn intent | 2,713 | 749 |
+| **All types** | **70,719** | **39,313** |
 
-About 17,854 signals in an average week.
+About 18,335 signals in an average week.
 
 ## Files
 
 | File | Rows | Columns |
 |---|---:|---|
-| `data/daily_by_type.csv` | 162 | date, signal_type, signals, decision_makers |
+| `data/daily_by_type.csv` | 186 | date, signal_type, signals, decision_makers |
 
-Coverage so far: 2026-10-23 to 2026-11-18. The files grow every week; older days are kept.
+Coverage so far: 2026-10-23 to 2026-11-22. The files grow every week; older days are kept.
 
 ## Methodology
 
